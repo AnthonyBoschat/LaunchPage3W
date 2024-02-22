@@ -2,8 +2,8 @@
 
 body
 {
-    width: 1400px;
-    height: 2666px;
+    width: 100vw;
+    height: 100vh;
     margin:auto;
     font-family: "Open Sans";
 }
